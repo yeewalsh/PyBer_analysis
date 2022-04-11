@@ -8,7 +8,7 @@ The following recommendations are based on an anlaysis of the total fares over t
 
 # Results
 
-!(Ride Summary by City Type)[analysis/PyBer_Summary_Chart.png]
+![Ride Summary by City Type](analysis/PyBer_Summary_Chart.png)
 
 The total rides and driver data analyzed by type of city (rural, suburban, and urban) is proportional with the expected population and size of the city type. Rural cities together had only 125 rides and 78 drivers compared to urban cities which had a total of 1,625 rides completed by 2,405 drivers. This matches expectations that rural populations are much smaller than urban cities. Suburban cities show larger totals than rural citties as expected but still only represent 26% of the total rides compared to urban cities which represent 68& of the total rides. 
 
@@ -16,7 +16,7 @@ Total fares also aligned with these numbers, increasing with the total rides. Ou
 
 However, the average fares per ride and per driver decreased as expected population size increased. Rural rides averaged $34.62, $10 more when compared to urban rides at $24.53. Suburban rides averaged $30.97, still about 6.50 more than urban rides. Hence, drivers in rural cities earned the highest average fares of $55.49, while drivers in urban cities earned only $16.57 per ride. Suburban drivers averaged $39.50. 
 
-!(Total Fares by City Type)[analysis/PyBer_fare_summary_graph.png]
+![Total Fares by City Type](analysis/PyBer_fare_summary_graph.png)
 
 When you analyze the proportions of drivers from the different types, it is slightly more exaggerated than the total rides and fares. 80% of total drivers are from urban cities while only 3% of drivers are from rural cities. The data does not show which rides are associated with which drivers, so you cannot see if all drivers have a comparable #of rides. Some drivers may have signed up but never made any rides at all, which would skew the average data because they did not contribute to the total amounts. This could help explain why the average fare per driver is almost $40 less in urban cities than rural cities. 
 
